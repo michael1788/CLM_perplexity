@@ -1,0 +1,5 @@
+COc1ccc2cccc3c2c1C(CNC(C)=O)CC3
+CCC(=O)NCCN1c2ccccc2C=Cc2ccc(OC)cc21
+CC(C)C(=O)N[C@@H]1CCN(c2cccc3c2CCO3)C1
+CC(C)C(=O)NC[C@@H]1CC1c1cccc2oc(CCCCc3ccccc3)cc12
+CC(=O)NCCc1cccc2ccc(OCCCCCOc3ccc4cccc(CCNC(C)=O)c4c3)cc12

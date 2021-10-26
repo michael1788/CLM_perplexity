@@ -1,0 +1,10 @@
+C=CCSc1nc2ccc(N(C/C=C/c3ccccc3)C/C=C/c3ccccc3)cc2c(=O)n1Cc1ccccc1
+COc1ccc(OC)c(-c2cc3nc(N)nc(N)c3cc2C)c1
+C#CCN(Cc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)c1ccc2nc(N)nc(N)c2c1
+CSc1nc2ccc(NC(=O)/C=C/c3ccccc3)cc2c(=O)n1Cc1ccccc1
+COc1cc(NCc2ccc3nc(N)nc(N)c3c2C)cc(OC)c1OC
+COc1cccc(SCc2cnc3nc(N)nc(N)c3c2C)c1
+COc1ccc(CN(C)c2cnc3nc(N)nc(N)c3c2)c(OC)c1OC
+CCCc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC
+C#CN(Cc1ccc2nc(N)nc(O)c2c1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)O)cc1
+CCCc1cc(Cc2cnc(N)nc2N)cc(CC)c1O

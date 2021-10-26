@@ -1,0 +1,5 @@
+Cc1oc(CC(=O)O)cc1COc1ccc(-c2ccccc2)cc1
+O=C(O)COCCCCN1C(=O)CC[C@@H]1/C=C/[C@@H](O)Cc1cccc(C(F)(F)F)c1
+CCn1c2ccccc2c2cc(-c3nc4cc(C(=O)O)ccc4n3CC3CC3)ccc21
+O=C(O)CCCSCCN1C(=O)CCC[C@@H]1/C=C/[C@@H](O)CCC1CC1
+CCCCC(C)(C)[C@H](O)/C=C/[C@H]1CCC(=O)N1CCSc1nc(C(=O)O)cs1

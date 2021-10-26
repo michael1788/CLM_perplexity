@@ -1,0 +1,10 @@
+COc1ccc2c(c1)C(CNC(C)=O)Cc1ccccc1C2=O
+CC(=O)N/C=C/c1cccc2ccccc12
+CCNC(=S)NCc1cc2c(ccc3ccc(OC)cc32)o1
+CC(=O)NCC(Cc1ccccc1)c1ccccc1
+COc1ccc2[nH]c(Cn3ccc4ccccc43)c(CCNC(C)=O)c2c1
+CCC(=O)NCCCc1cccc2nc(CC)oc12
+CCCC1Nc2cccc([C@@H]3C[C@H]3CNC(C)=O)c2O1
+CCCc1nc2cccc(CCCNC(=O)NCC)c2o1
+CCCC(=O)NCC1Cc2cccc3ccc(OC)c1c23
+COc1ccc2ccc3occ(CCNC(C)=O)c3c2c1

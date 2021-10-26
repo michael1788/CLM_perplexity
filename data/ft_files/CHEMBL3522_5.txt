@@ -1,0 +1,5 @@
+CCC(c1ccc(-c2cc(O)cc(O)c2)cc1)n1ccnc1
+O=[N+]([O-])c1cc(S(=O)(=O)N2CCN(c3ccc(/C=C/c4cc(Cl)cc(Cn5ccnc5)c4)cc3)CC2)ccc1Cl
+CNC(=O)c1ccc2cc([C@](O)(c3c[nH]cn3)C(C)C)ccc2c1
+CC(=O)Nc1ccc(-c2ccc(C(O)(c3c[nH]cn3)C(C)C)cc2)cc1
+C[C@]12CC[C@H]3[C@@H](C[C@@H]4O[C@@]45C[C@@H](O)CC[C@]35C)[C@@H]1CC=C2c1cccnc1

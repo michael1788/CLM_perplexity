@@ -1,0 +1,5 @@
+NC(=O)c1ccc2nc(-c3ccc([N+](=O)[O-])o3)cn2c1
+Nc1nonc1-n1nnc(C(=O)NN=Cc2ccncc2)c1-c1ccccc1
+O=C1Nc2cc(Nc3cccc(NC(=O)c4cccc(C(F)(F)F)c4)c3)ccc2/C1=C/c1ccc[nH]1
+CNc1ncnc2c1N=C(c1ccc(NC(=O)Nc3cccc(C(F)(F)F)c3)cc1)CCN2
+COc1ccc(-c2ccc(NC(=O)Nc3cccc(Br)c3)cc2)c2c(N)noc12

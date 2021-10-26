@@ -1,0 +1,5 @@
+CNc1c(Br)cnc2[nH]c(-c3ccc(OCCN4CCCCC4)cc3)nc12
+CN(C)Cc1ccnc(Nc2cc(-c3ccc(OC4CCOCC4)c(C#N)c3)ccn2)c1
+N#Cc1cc(-c2ccnc(Nc3cnn(C4CCNC4)c3)n2)ccc1OC1CCOCC1
+Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Oc3ccc([N+](=O)[O-])cc3)n2)n[nH]1
+Nc1nc2oc3ccc(C4=CCC5(CC4)OCCO5)cc3c(=O)c2cc1C(=O)O
